@@ -1,2 +1,7 @@
 # Final-Project
-In our final week, we will be adding the additional pages from your earlier storyboard assignment to your interface websites.  Please add content to these new pages and make sure the site is fully functional and error free. 
+User Interface class final project (imaginary business)
+Main focus of the project font end design
+Google fonts for font type
+Fonts Awesome for icons
+Mustache to populate text
+Bootstrap to create responsive design
